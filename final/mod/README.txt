@@ -1,0 +1,9 @@
+pip==19.3.1
+plotly==4.4.1
+pyecharts==1.6.1
+panda==0.3.1
+pandas==0.25.3
+Flask==1.1.1
+jinja2==2.10.3
+cufflinks==0.17.0
+ipython==7.11.1
