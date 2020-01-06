@@ -36,8 +36,8 @@
 
 - Potentially_Excess_Deaths_from_the_Five_Leading_Causes_of_Death_2005_Fixed
 
- <img src="img12.png">
- ![images](images/img12.png)
+ <img src ="img12.png">
+ ![images](/img12.png)
 
 ## 数据故事展现
 
