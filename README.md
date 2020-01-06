@@ -26,6 +26,11 @@
 
 - 在左上方有3个选择器，用户可以选择完自己想要看的页面之后，选择跳转。每个页面之下，下面有2个选项功能是提供用户选择自己想要看到的信息条件。
 
+ <img src ="https://upload-images.jianshu.io/upload_images/17372180-d40e03a45bb268c4.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200"/>
+ <img src="img12.png"/>
+ 
+ ![](https://upload-images.jianshu.io/upload_images/17372180-d40e03a45bb268c4.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
+
 ## 使用数据
 
 - American_cancer_deaths
@@ -35,11 +40,6 @@
 - NCHS_-_Potentially_Excess_Deaths_from_the_Five_Leading_Causes_of_Death
 
 - Potentially_Excess_Deaths_from_the_Five_Leading_Causes_of_Death_2005_Fixed
-
- <img src ="https://upload-images.jianshu.io/upload_images/17372180-d40e03a45bb268c4.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200"/>
- <img src="img12.png"/>
- 
- ![](https://upload-images.jianshu.io/upload_images/17372180-d40e03a45bb268c4.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200)
 
 ## 数据故事展现
 
