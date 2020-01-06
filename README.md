@@ -38,6 +38,7 @@
 
  <img src ="img12.png">
  ![images](/img12.png)
+![.png]
 
 ## 数据故事展现
 
