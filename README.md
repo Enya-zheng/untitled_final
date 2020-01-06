@@ -4,7 +4,7 @@
 
 本项目由我和一位17级师姐，组成的2人小组共同完
 
-##项目分工
+## 项目分工
 
 - 由17级的同学提供数据及针对数据故事所制作的可视化图表。共提供三份数据及三张图表。
 
@@ -36,7 +36,8 @@
 
 - Potentially_Excess_Deaths_from_the_Five_Leading_Causes_of_Death_2005_Fixed
 
-<img src="img12.png">
+ <img src="img12.png">
+ ![images](images/img12.png)
 
 ## 数据故事展现
 
